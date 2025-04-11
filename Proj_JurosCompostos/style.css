@@ -1,0 +1,15 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+div {
+    border: 2px solid black;
+    border-radius: 15px;
+    background-color: burlywood;
+}
+
+#title-header {
+    color: black;
+    text-align: center;
+}
