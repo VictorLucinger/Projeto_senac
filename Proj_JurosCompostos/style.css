@@ -45,3 +45,16 @@ div {
     margin: 15px;
     padding: 5px;
 }
+
+#button-calc {
+    display: flex;
+    justify-content: center;
+    padding: 10px;
+}
+
+#button-calc-text {
+    border-radius: 15px;
+    background-color: rgb(137, 174, 128);
+    border: 2px solid black;
+    padding: 35px;
+}
