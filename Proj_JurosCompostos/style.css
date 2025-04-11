@@ -12,4 +12,30 @@ div {
 #title-header {
     color: black;
     text-align: center;
+    margin-top: 15px;
+    margin-bottom: 15px;
+}
+
+#titulo-campos {
+    display: flex;
+    justify-content: center;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#inerbox-campos {
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+}
+
+.input-boxes {
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+}
+
+.inputbox {
+    margin: 15px;
+    padding: 5px;
 }
